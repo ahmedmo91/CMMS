@@ -1,0 +1,6 @@
+{
+  "name": "ApexCMMS - Modular Maintenance Platform",
+  "description": "Modular enterprise maintenance management platform featuring dynamic dashboard workspaces, fault management, RBAC, shared asset/workforce registries, and extensible module architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
